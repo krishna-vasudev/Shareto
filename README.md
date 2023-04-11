@@ -61,7 +61,7 @@ Check that out here <b>:</b>[https://www.youtube.com/watch?v=dYjKtP1Z6yE](https:
 
 ## Database Diagram
 [Link](https://drawsql.app/teams/debraj-bhal/diagrams/shareto-database-diagram)
-<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/debraj-bhal/diagrams/shareto-database-diagram/embed"></iframe>
+<object width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" data="https://drawsql.app/teams/debraj-bhal/diagrams/shareto-database-diagram/embed"></object>
 
 ## 🐛 Bug Reporting
 Feel free to open an issue on github if you find any bug.
