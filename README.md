@@ -62,7 +62,7 @@ Check that out here <b>:</b>[https://www.youtube.com/watch?v=dYjKtP1Z6yE](https:
 ## Database Diagram
 [Link](https://drawsql.app/teams/debraj-bhal/diagrams/shareto-database-diagram)
 <p float="left" align="center">
-  <img src="media/dbdiagram.png" width="500" />
+  <img src="media/dbdiagram.png" width="800" height="400" />
 </p>
 
 ## 🐛 Bug Reporting
